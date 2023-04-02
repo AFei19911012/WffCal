@@ -340,7 +340,7 @@ int main()
     system("color 0A");
 
     // 测试 Armadillo  
-    DemoArmadillo();
+    //DemoArmadillo();
 
     // 函数模板测试
     //DemoTemplateFunction();
@@ -361,7 +361,7 @@ int main()
     //DemoFilter2D();
 
     // 反演测试 T1T2
-    //DemoInvT1T2();
+    DemoInvT1T2();
 
     // 任意键退出
     system("pause");
